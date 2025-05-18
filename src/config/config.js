@@ -2,7 +2,7 @@ require('dotenv').config();
 
 
 module.exports = {
-    token: '',
+    token: 'MTM3MzY4NDkyODU3NDY1NjU2Mg.GOU19B.IYA8_hzXXIln4TIPilMoH0itdcr4uQl3Jg1S8M',
     cookies:{
         domain: ".youtube.com",
         expirationDate: 1757764090.235338,
